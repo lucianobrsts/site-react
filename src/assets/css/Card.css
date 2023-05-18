@@ -1,0 +1,35 @@
+.card {
+    background-color: #fff;
+    max-width: 900px;
+    height: 300px;
+    margin: 0 auto;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin-top: 140px;
+  }
+
+.cardDireita {
+    position: relative;
+    float: right;
+    height: 260px;
+    width: 305px;
+    padding: 20px;
+    text-align: left;
+}
+
+.cardEsquerda {
+    position: relative;
+    background-color: #488bf4;
+    float: left;
+    height: 300px;
+    width: 550px;
+    text-align: left;
+}
+
+.linkNew {
+    font-family: subspace, Helvetica, Arial, sans-serif;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 0.87);
+    padding-left: 40px;
+    line-height: 1.0;
+  }
+  
